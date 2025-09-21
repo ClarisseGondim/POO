@@ -16,4 +16,5 @@ usuario= Usuario("Ana Clara", 102600, 20022001,"20/02/2000")
 usuario_exibir = usuario.caracteristica_usuario()
 
 print(usuario_exibir)
-    
+
+
