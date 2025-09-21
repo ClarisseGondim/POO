@@ -12,7 +12,7 @@ class Carro:
         objeto_cor =f"\n{self.cor}"
 
         return objeto_marca + objeto_modelo + objeto_ano + objeto_cor
-    
+
 
 carro = Carro("Fiat", "Mobi",2024, "Branco")
 carro1 = Carro("Hyundai","Creta", 2025, "Cinza")
