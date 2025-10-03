@@ -1,3 +1,4 @@
+
 # menu.py
 from produto import Produto
 from estoque import Estoque
