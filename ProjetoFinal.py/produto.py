@@ -38,3 +38,4 @@ class Produto:
     def __str__(self):
         return f"Produto: {self.__nome} | Preço: R$ {self.__preco:.2f} | Quantidade: {self.__quantidade}"
     
+   
