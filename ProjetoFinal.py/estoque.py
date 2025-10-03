@@ -1,3 +1,4 @@
+
 # estoque.py
 from arquivo import salvar_produtos, carregar_produtos
 
